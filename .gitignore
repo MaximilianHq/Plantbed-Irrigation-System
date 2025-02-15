@@ -1,0 +1,8 @@
+##Altium
+**/History/
+**/__Previews/
+**/Project Outputs*/
+
+## LTspice
+/Simulation/*.raw
+/Simulation/*.log
