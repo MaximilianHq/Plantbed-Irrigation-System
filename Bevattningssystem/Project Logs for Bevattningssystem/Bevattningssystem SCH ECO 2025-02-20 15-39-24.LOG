@@ -1,0 +1,144 @@
+Removed Parameter Datasheet URL:https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf from Part Q1
+Removed Parameter Datasheet URL:https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf from Part Q2
+Removed Parameter Datasheet URL:https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf from Part QC1
+Removed Parameter Datasheet URL:https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf from Part QC2
+Removed Parameter Datasheet Version:Rev. 1.1.0, 07/2014 from Part Q1
+Removed Parameter Datasheet Version:Rev. 1.1.0, 07/2014 from Part Q2
+Removed Parameter Datasheet Version:Rev. 1.1.0, 07/2014 from Part QC1
+Removed Parameter Datasheet Version:Rev. 1.1.0, 07/2014 from Part QC2
+Removed Parameter Elements:1 from Part Q1
+Removed Parameter Elements:1 from Part Q2
+Removed Parameter Elements:1 from Part QC1
+Removed Parameter Elements:1 from Part QC2
+Removed Parameter hFE Min:100 from Part Q1
+Removed Parameter hFE Min:100 from Part Q2
+Removed Parameter hFE Min:100 from Part QC1
+Removed Parameter hFE Min:100 from Part QC2
+Removed Parameter Manufacturer:Fairchild from Part Q1
+Removed Parameter Manufacturer:Fairchild from Part Q2
+Removed Parameter Manufacturer:Fairchild from Part QC1
+Removed Parameter Manufacturer:Fairchild from Part QC2
+Removed Parameter Package Description:3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm from Part Q1
+Removed Parameter Package Description:3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm from Part Q2
+Removed Parameter Package Description:3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm from Part QC1
+Removed Parameter Package Description:3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm from Part QC2
+Removed Parameter Package Quantity:1000 from Part Q1
+Removed Parameter Package Quantity:1000 from Part Q2
+Removed Parameter Package Quantity:1000 from Part QC1
+Removed Parameter Package Quantity:1000 from Part QC2
+Removed Parameter Package Reference:TO-92 from Part Q1
+Removed Parameter Package Reference:TO-92 from Part Q2
+Removed Parameter Package Reference:TO-92 from Part QC1
+Removed Parameter Package Reference:TO-92 from Part QC2
+Removed Parameter Packaging:Bulk from Part Q1
+Removed Parameter Packaging:Bulk from Part Q2
+Removed Parameter Packaging:Bulk from Part QC1
+Removed Parameter Packaging:Bulk from Part QC2
+Removed Parameter Vce Max:1V from Part Q1
+Removed Parameter Vce Max:1V from Part Q2
+Removed Parameter Vce Max:1V from Part QC1
+Removed Parameter Vce Max:1V from Part QC2
+Change Value of Parameter Case/Package in Part QC2 Old=TO-226-3 New=
+Change Value of Parameter Case/Package in Part Q2 Old=TO-226-3 New=
+Change Value of Parameter Case/Package in Part QC1 Old=TO-226-3 New=
+Change Value of Parameter Case/Package in Part Q1 Old=TO-226-3 New=
+Change Value of Parameter Min Operating Temperature in Part QC1 Old=-55°C New=
+Change Value of Parameter Min Operating Temperature in Part Q2 Old=-55°C New=
+Change Value of Parameter Min Operating Temperature in Part Q1 Old=-55°C New=
+Change Value of Parameter Min Operating Temperature in Part QC2 Old=-55°C New=
+Change Value of Parameter Mounting Technology in Part Q1 Old=TH New=
+Change Value of Parameter Mounting Technology in Part QC1 Old=TH New=
+Change Value of Parameter Mounting Technology in Part Q2 Old=TH New=
+Change Value of Parameter Mounting Technology in Part QC2 Old=TH New=
+Change Value of Parameter Power in Part QC1 Old=625mW New=
+Change Value of Parameter Power in Part Q1 Old=625mW New=
+Change Value of Parameter Power in Part Q2 Old=625mW New=
+Change Value of Parameter Power in Part QC2 Old=625mW New=
+Change Value of Parameter RoHS Compliant in Part QC2 Old=True New=Yes
+Change Value of Parameter RoHS Compliant in Part Q1 Old=True New=Yes
+Change Value of Parameter RoHS Compliant in Part Q2 Old=True New=Yes
+Change Value of Parameter RoHS Compliant in Part QC1 Old=True New=Yes
+Added Parameter Collector-emitter Voltage-Max=40V to Part Q1
+Added Parameter Collector-emitter Voltage-Max=40V to Part Q2
+Added Parameter Collector-emitter Voltage-Max=40V to Part QC1
+Added Parameter Collector-emitter Voltage-Max=40V to Part QC2
+Added Parameter DC Current Gain-Min (hFE)=30 to Part Q1
+Added Parameter DC Current Gain-Min (hFE)=30 to Part Q2
+Added Parameter DC Current Gain-Min (hFE)=30 to Part QC1
+Added Parameter DC Current Gain-Min (hFE)=30 to Part QC2
+Added Parameter JEDEC-95 Code=TO-92 to Part Q1
+Added Parameter JEDEC-95 Code=TO-92 to Part Q2
+Added Parameter JEDEC-95 Code=TO-92 to Part QC1
+Added Parameter JEDEC-95 Code=TO-92 to Part QC2
+Added Parameter JESD-30 Code=O-PBCY-T3 to Part Q1
+Added Parameter JESD-30 Code=O-PBCY-T3 to Part Q2
+Added Parameter JESD-30 Code=O-PBCY-T3 to Part QC1
+Added Parameter JESD-30 Code=O-PBCY-T3 to Part QC2
+Added Parameter Max Collector Current=200mA to Part Q1
+Added Parameter Max Collector Current=200mA to Part Q2
+Added Parameter Max Collector Current=200mA to Part QC1
+Added Parameter Max Collector Current=200mA to Part QC2
+Added Parameter Number of Elements=1 to Part Q1
+Added Parameter Number of Elements=1 to Part Q2
+Added Parameter Number of Elements=1 to Part QC1
+Added Parameter Number of Elements=1 to Part QC2
+Added Parameter Package Body Material=Plastic to Part Q1
+Added Parameter Package Body Material=Plastic to Part Q2
+Added Parameter Package Body Material=Plastic to Part QC1
+Added Parameter Package Body Material=Plastic to Part QC2
+Added Parameter Package Shape=Round to Part Q1
+Added Parameter Package Shape=Round to Part Q2
+Added Parameter Package Shape=Round to Part QC1
+Added Parameter Package Shape=Round to Part QC2
+Added Parameter Package Style=CYLINDRICALMeter to Part Q1
+Added Parameter Package Style=CYLINDRICALMeter to Part Q2
+Added Parameter Package Style=CYLINDRICALMeter to Part QC1
+Added Parameter Package Style=CYLINDRICALMeter to Part QC2
+Added Parameter Polarity/Channel Type=NPN to Part Q1
+Added Parameter Polarity/Channel Type=NPN to Part Q2
+Added Parameter Polarity/Channel Type=NPN to Part QC1
+Added Parameter Polarity/Channel Type=NPN to Part QC2
+Added Parameter Power Dissipation-Max (Abs)=350mW to Part Q1
+Added Parameter Power Dissipation-Max (Abs)=350mW to Part Q2
+Added Parameter Power Dissipation-Max (Abs)=350mW to Part QC1
+Added Parameter Power Dissipation-Max (Abs)=350mW to Part QC2
+Added Parameter Qualification Status=Not Qualified to Part Q1
+Added Parameter Qualification Status=Not Qualified to Part Q2
+Added Parameter Qualification Status=Not Qualified to Part QC1
+Added Parameter Qualification Status=Not Qualified to Part QC2
+Added Parameter Reach SVHC Compliant=Yes to Part Q1
+Added Parameter Reach SVHC Compliant=Yes to Part Q2
+Added Parameter Reach SVHC Compliant=Yes to Part QC1
+Added Parameter Reach SVHC Compliant=Yes to Part QC2
+Added Parameter Surface Mount=No to Part Q1
+Added Parameter Surface Mount=No to Part Q2
+Added Parameter Surface Mount=No to Part QC1
+Added Parameter Surface Mount=No to Part QC2
+Added Parameter Terminal Form=Through Hole to Part Q1
+Added Parameter Terminal Form=Through Hole to Part Q2
+Added Parameter Terminal Form=Through Hole to Part QC1
+Added Parameter Terminal Form=Through Hole to Part QC2
+Added Parameter Terminal Position=BOTTOM to Part Q1
+Added Parameter Terminal Position=BOTTOM to Part Q2
+Added Parameter Terminal Position=BOTTOM to Part QC1
+Added Parameter Terminal Position=BOTTOM to Part QC2
+Added Parameter Transistor Application=SWITCHING to Part Q1
+Added Parameter Transistor Application=SWITCHING to Part Q2
+Added Parameter Transistor Application=SWITCHING to Part QC1
+Added Parameter Transistor Application=SWITCHING to Part QC2
+Added Parameter Transistor Element Material=SILICON to Part Q1
+Added Parameter Transistor Element Material=SILICON to Part Q2
+Added Parameter Transistor Element Material=SILICON to Part QC1
+Added Parameter Transistor Element Material=SILICON to Part QC2
+Added Parameter Turn-off Time-Max (toff)=250ns to Part Q1
+Added Parameter Turn-off Time-Max (toff)=250ns to Part Q2
+Added Parameter Turn-off Time-Max (toff)=250ns to Part QC1
+Added Parameter Turn-off Time-Max (toff)=250ns to Part QC2
+Added Parameter Turn-on Time-Max (ton)=70ns to Part Q1
+Added Parameter Turn-on Time-Max (ton)=70ns to Part Q2
+Added Parameter Turn-on Time-Max (ton)=70ns to Part QC1
+Added Parameter Turn-on Time-Max (ton)=70ns to Part QC2
+Update Managed Component Q1 From CMP-013-00040-1[PN2222ABU] To CMP-013-00040-1[2N3904BU] in Bevattningssystem.SchDoc
+Update Managed Component Q2 From CMP-013-00040-1[PN2222ABU] To CMP-013-00040-1[2N3904BU] in Bevattningssystem.SchDoc
+Update Managed Component QC1 From CMP-013-00040-1[PN2222ABU] To CMP-013-00040-1[2N3904BU] in Bevattningssystem.SchDoc
+Update Managed Component QC2 From CMP-013-00040-1[PN2222ABU] To CMP-013-00040-1[2N3904BU] in Bevattningssystem.SchDoc
