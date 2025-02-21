@@ -116,6 +116,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQGHYTVQ
 
+[Document5]
+DocumentPath=Pin Header 3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZGVTBPYI
+
 [SearchPath1]
 Path=C:\Users\maxim\OneDrive - Linköpings universitet\Documents\LIU WORKSPACE\TNE087 Elektronikproduktion\Projekt\Libraries\TC33X-2-104E\TC33X-2-104E\*.*
 IncludeSubFolders=1
