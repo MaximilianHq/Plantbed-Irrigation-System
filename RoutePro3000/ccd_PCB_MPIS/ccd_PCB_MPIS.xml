@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RP3000_LAYER_TOOL_INFO>
+  <Layer_grid_version>Version_001</Layer_grid_version>
+  <Tool_grid_version>Version_001</Tool_grid_version>
+  <BoardLength>150,00</BoardLength>
+  <BoardWidth>150,00</BoardWidth>
+  <BoardThickness>1,50</BoardThickness>
+  <Xoffset>5,00</Xoffset>
+  <Yoffset>5,00</Yoffset>
+  <CBorigin>2</CBorigin>
+  <ScaleXY>1,00</ScaleXY>
+  <basePlateThickness>4,20</basePlateThickness>
+  <CBhpglStepSize>4</CBhpglStepSize>
+  <CBhpglSegmentsSmall>1</CBhpglSegmentsSmall>
+  <CBhpglSegmentsBig>3</CBhpglSegmentsBig>
+  <CBexcellonStepSize>2</CBexcellonStepSize>
+  <CBexcellonSort>2</CBexcellonSort>
+  <MaterialOffsetX>0,00</MaterialOffsetX>
+  <MaterialOffsetY>0,00</MaterialOffsetY>
+  <CBcalibrate>False</CBcalibrate>
+  <CBATCenable_5332>False</CBATCenable_5332>
+  <CBmeasure>False</CBmeasure>
+  <RCBbufferMode>False</RCBbufferMode>
+  <CBviewLineGrid>0</CBviewLineGrid>
+  <CBviewDotGrid>0</CBviewDotGrid>
+  <IntensityLineGrid>60</IntensityLineGrid>
+  <IntensityDotGrid>125</IntensityDotGrid>
+  <IntensityTable>60</IntensityTable>
+  <CBMaterialView>True</CBMaterialView>
+  <PCBnrX>1</PCBnrX>
+  <PCBnrY>2</PCBnrY>
+  <VerSpacing>20</VerSpacing>
+  <HorSpacing>3</HorSpacing>
+  <ManagerColorTint>0</ManagerColorTint>
+  <ManagerStyle>Office2007Blue</ManagerStyle>
+  <CBprinterSelection>0</CBprinterSelection>
+  <CBlogo>True</CBlogo>
+  <LogoFilename />
+  <SizeQR>100</SizeQR>
+  <SerialCount>0</SerialCount>
+  <SerialDigits>6</SerialDigits>
+  <DateTimeFormat>dd-MM-yyyy HH:mm:ss</DateTimeFormat>
+  <UserInfo>Company name
+[P]
+Code: 1256003
+SN: 123-A56-[S]
+[D]</UserInfo>
+  <UserProjectInfo>[P]
+[D]</UserProjectInfo>
+  <userfontName>Arial</userfontName>
+  <userfontStyle>0</userfontStyle>
+  <userfontSize>8</userfontSize>
+  <_flex>
+    <C1FlexGrid version="4.6.20122.726">
+      <Control>
+        <VisualStyle>Office2010Blue</VisualStyle>
+        <AllowMerging>FixedOnly</AllowMerging>
+        <AllowMergingFixed>FixedOnly</AllowMergingFixed>
+        <AllowResizing>None</AllowResizing>
+        <AllowDragging>Rows</AllowDragging>
+        <ExtendLastCol>True</ExtendLastCol>
+        <SelectionMode>Cell</SelectionMode>
+        <KeyActionTab>MoveAcrossOut</KeyActionTab>
+        <DrawMode>OwnerDraw</DrawMode>
+        <ForeColor>Blue</ForeColor>
+        <ShowThemedHeaders>None</ShowThemedHeaders>
+        <NewRowWatermark>Click to add new row</NewRowWatermark>
+        <BorderStyle>None</BorderStyle>
+        <Cursor>Default</Cursor>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <Margin>3, 3, 3, 3</Margin>
+        <MaximumSize>0, 0</MaximumSize>
+        <MinimumSize>0, 0</MinimumSize>
+        <RightToLeft>No</RightToLeft>
+        <Padding>0, 0, 0, 0</Padding>
+        <ImeMode>NoControl</ImeMode>
+      </Control>
+      <ColumnInfo>
+        <Count>29</Count>
+        <Fixed>1</Fixed>
+        <DefaultSize>95</DefaultSize>
+        <Frozen>1</Frozen>
+      </ColumnInfo>
+      <Columns>
+        <Column index="0">
+          <Width>20</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>26</Style>
+          <StyleFixed>27</StyleFixed>
+        </Column>
+        <Column index="1">
+          <Width>200</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>21</Style>
+          <StyleFixed>28</StyleFixed>
+        </Column>
+        <Column index="2">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>29</Style>
+          <StyleFixed>30</StyleFixed>
+        </Column>
+        <Column index="3">
+          <Width>90</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>31</Style>
+          <StyleFixed>32</StyleFixed>
+        </Column>
+        <Column index="4">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>33</Style>
+          <StyleFixed>34</StyleFixed>
+        </Column>
+        <Column index="5">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>35</Style>
+          <StyleFixed>36</StyleFixed>
+        </Column>
+        <Column index="6">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>37</Style>
+          <StyleFixed>38</StyleFixed>
+        </Column>
+        <Column index="7">
+          <Width>80</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>39</Style>
+          <StyleFixed>40</StyleFixed>
+        </Column>
+        <Column index="8">
+          <Width>120</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>22</Style>
+          <StyleFixed>41</StyleFixed>
+        </Column>
+        <Column index="9">
+          <Width>40</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <Style>42</Style>
+          <StyleFixed>43</StyleFixed>
+        </Column>
+        <Column index="10">
+          <Width>40</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <Style>44</Style>
+          <StyleFixed>45</StyleFixed>
+        </Column>
+        <Column index="11">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>46</Style>
+          <StyleFixed>47</StyleFixed>
+        </Column>
+        <Column index="12">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>48</Style>
+          <StyleFixed>49</StyleFixed>
+        </Column>
+        <Column index="13">
+          <Width>50</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>50</Style>
+          <StyleFixed>51</StyleFixed>
+        </Column>
+        <Column index="14">
+          <Width>50</Width>
+          <AllowFiltering>None</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>52</Style>
+          <StyleFixed>53</StyleFixed>
+        </Column>
+        <Column index="15">
+          <Width>40</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>54</Style>
+          <StyleFixed>55</StyleFixed>
+        </Column>
+        <Column index="16">
+          <Width>50</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>56</Style>
+          <StyleFixed>57</StyleFixed>
+        </Column>
+        <Column index="17">
+          <Width>50</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>58</Style>
+          <StyleFixed>59</StyleFixed>
+        </Column>
+        <Column index="18">
+          <Width>50</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>60</Style>
+          <StyleFixed>61</StyleFixed>
+        </Column>
+        <Column index="19">
+          <Width>50</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>ByValue</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>62</Style>
+          <StyleFixed>63</StyleFixed>
+        </Column>
+        <Column index="20">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>64</Style>
+          <StyleFixed>65</StyleFixed>
+        </Column>
+        <Column index="21">
+          <Width>22</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>ByValue</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>66</Style>
+          <StyleFixed>67</StyleFixed>
+        </Column>
+        <Column index="22">
+          <Width>1</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+        </Column>
+        <Column index="23">
+          <Width>1</Width>
+          <Visible>False</Visible>
+          <Style>68</Style>
+        </Column>
+        <Column index="24">
+          <Width>1</Width>
+          <Visible>False</Visible>
+          <Style>69</Style>
+        </Column>
+        <Column index="25">
+          <Width>1</Width>
+          <Visible>False</Visible>
+          <Style>70</Style>
+        </Column>
+        <Column index="26">
+          <Width>1</Width>
+          <Visible>False</Visible>
+          <Style>71</Style>
+        </Column>
+        <Column index="27">
+          <Width>1</Width>
+          <Visible>False</Visible>
+          <Style>72</Style>
+        </Column>
+        <Column index="28">
+          <Width>5</Width>
+          <Style>73</Style>
+          <StyleFixed>74</StyleFixed>
+        </Column>
+      </Columns>
+      <RowInfo>
+        <Count>4</Count>
+        <Fixed>2</Fixed>
+        <MinSize>21</MinSize>
+        <DefaultSize>19</DefaultSize>
+      </RowInfo>
+      <Rows>
+        <Row index="0">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+        <Row index="1">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+      </Rows>
+      <Cells>
+        <Cell index="0,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,1">
+          <Data>File name</Data>
+        </Cell>
+        <Cell index="0,2">
+          <Data>File Type</Data>
+        </Cell>
+        <Cell index="0,3">
+          <Data>Process Type</Data>
+        </Cell>
+        <Cell index="0,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="0,5">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="0,6">
+          <Data>Visible</Data>
+        </Cell>
+        <Cell index="0,7">
+          <Data>Color</Data>
+        </Cell>
+        <Cell index="0,8">
+          <Data>Instructions</Data>
+        </Cell>
+        <Cell index="0,9">
+          <Data>Offset</Data>
+        </Cell>
+        <Cell index="0,10">
+          <Data>Offset</Data>
+        </Cell>
+        <Cell index="0,11">
+          <Data>Scale</Data>
+        </Cell>
+        <Cell index="0,12">
+          <Data>Scale</Data>
+        </Cell>
+        <Cell index="0,13">
+          <Data>Rotate</Data>
+        </Cell>
+        <Cell index="0,14">
+          <Data>Mirror</Data>
+        </Cell>
+        <Cell index="0,15">
+          <Data>Layer</Data>
+        </Cell>
+        <Cell index="0,16">
+          <Data>Coordinates</Data>
+        </Cell>
+        <Cell index="0,17">
+          <Data>Coordinates</Data>
+        </Cell>
+        <Cell index="0,18">
+          <Data>Coordinates</Data>
+        </Cell>
+        <Cell index="0,19">
+          <Data>Coordinates</Data>
+        </Cell>
+        <Cell index="0,20">
+          <Data>Side</Data>
+        </Cell>
+        <Cell index="0,21">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,28">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,1">
+          <Data>File name</Data>
+        </Cell>
+        <Cell index="1,2">
+          <Data>File Type</Data>
+        </Cell>
+        <Cell index="1,3">
+          <Data>Process Type</Data>
+        </Cell>
+        <Cell index="1,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="1,5">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="1,6">
+          <Data>Visible</Data>
+        </Cell>
+        <Cell index="1,7">
+          <Data>Color</Data>
+        </Cell>
+        <Cell index="1,8">
+          <Data>Instructions</Data>
+        </Cell>
+        <Cell index="1,9">
+          <Data>X</Data>
+        </Cell>
+        <Cell index="1,10">
+          <Data>Y</Data>
+        </Cell>
+        <Cell index="1,11">
+          <Data>X</Data>
+        </Cell>
+        <Cell index="1,12">
+          <Data>Y</Data>
+        </Cell>
+        <Cell index="1,13">
+          <Data>Rotate</Data>
+        </Cell>
+        <Cell index="1,14">
+          <Data>Mirror</Data>
+        </Cell>
+        <Cell index="1,15">
+          <Data>Layer</Data>
+        </Cell>
+        <Cell index="1,16">
+          <Data>X start</Data>
+        </Cell>
+        <Cell index="1,17">
+          <Data>Y start</Data>
+        </Cell>
+        <Cell index="1,18">
+          <Data>X end</Data>
+        </Cell>
+        <Cell index="1,19">
+          <Data>Y end</Data>
+        </Cell>
+        <Cell index="1,20">
+          <Data>Side</Data>
+        </Cell>
+        <Cell index="1,21">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,28">
+          <Data> </Data>
+        </Cell>
+        <Cell index="2,1">
+          <Data>E:\TNE087-Project-2025-Irrigation-system\RoutePro3000\ccd_PCB_MPIS\non-plated.drl</Data>
+        </Cell>
+        <Cell index="2,2">
+          <Data>Excellon</Data>
+        </Cell>
+        <Cell index="2,3">
+          <Data>Drill</Data>
+        </Cell>
+        <Cell index="2,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="2,5">
+          <Data>False</Data>
+          <Checkbox>Unchecked</Checkbox>
+        </Cell>
+        <Cell index="2,6">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="2,7">
+          <Data type="System.Drawing.Color">Yellow</Data>
+        </Cell>
+        <Cell index="2,8">
+          <Data />
+        </Cell>
+        <Cell index="2,9">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,10">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,11">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,12">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,13">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,14">
+          <Data>No</Data>
+        </Cell>
+        <Cell index="2,15">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,16">
+          <Data>10.13401</Data>
+        </Cell>
+        <Cell index="2,17">
+          <Data>33.57501</Data>
+        </Cell>
+        <Cell index="2,18">
+          <Data>14.63401</Data>
+        </Cell>
+        <Cell index="2,19">
+          <Data>97.70701</Data>
+        </Cell>
+        <Cell index="2,20">
+          <Data>Bottom</Data>
+        </Cell>
+        <Cell index="2,21">
+          <Data type="System.Drawing.Bitmap">System.Drawing.Bitmap</Data>
+        </Cell>
+        <Cell index="2,22">
+          <Data>E:\TNE087-Project-2025-Irrigation-system\Bevattningssystem\non-plated.drl</Data>
+        </Cell>
+        <Cell index="2,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,24">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,25">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,26">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,27">
+          <Data>False</Data>
+          <Checkbox>Unchecked</Checkbox>
+        </Cell>
+        <Cell index="3,1">
+          <Data>E:\TNE087-Project-2025-Irrigation-system\RoutePro3000\ccd_PCB_MPIS\plated.drl</Data>
+        </Cell>
+        <Cell index="3,2">
+          <Data>Excellon</Data>
+        </Cell>
+        <Cell index="3,3">
+          <Data>Drill</Data>
+        </Cell>
+        <Cell index="3,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="3,5">
+          <Data>False</Data>
+          <Checkbox>Unchecked</Checkbox>
+        </Cell>
+        <Cell index="3,6">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="3,7">
+          <Data type="System.Drawing.Color">Yellow</Data>
+        </Cell>
+        <Cell index="3,8">
+          <Data />
+        </Cell>
+        <Cell index="3,9">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,10">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,11">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,12">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,13">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,14">
+          <Data>No</Data>
+        </Cell>
+        <Cell index="3,15">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,16">
+          <Data>6.90501</Data>
+        </Cell>
+        <Cell index="3,17">
+          <Data>7.54001</Data>
+        </Cell>
+        <Cell index="3,18">
+          <Data>81.51701</Data>
+        </Cell>
+        <Cell index="3,19">
+          <Data>115.804</Data>
+        </Cell>
+        <Cell index="3,20">
+          <Data>Bottom</Data>
+        </Cell>
+        <Cell index="3,21">
+          <Data type="System.Drawing.Bitmap">System.Drawing.Bitmap</Data>
+        </Cell>
+        <Cell index="3,22">
+          <Data>E:\TNE087-Project-2025-Irrigation-system\Bevattningssystem\plated.drl</Data>
+        </Cell>
+        <Cell index="3,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,24">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,25">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,26">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,27">
+          <Data>False</Data>
+          <Checkbox>Unchecked</Checkbox>
+        </Cell>
+      </Cells>
+      <Styles>
+        <Style>
+          <Name>Normal</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;BackColor:Window;ForeColor:Blue;</Definition>
+        </Style>
+        <Style>
+          <Name>Alternate</Name>
+          <Definition>BackColor:Transparent;</Definition>
+        </Style>
+        <Style>
+          <Name>Fixed</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;BackColor:InactiveCaptionText;ForeColor:CornflowerBlue;Border:Flat,1,InactiveBorder,Both;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Name>Highlight</Name>
+          <Definition>BackColor:GhostWhite;ForeColor:ActiveCaption;</Definition>
+        </Style>
+        <Style>
+          <Name>Focus</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Editor</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Search</Name>
+          <Definition>BackColor:Highlight;ForeColor:HighlightText;</Definition>
+        </Style>
+        <Style>
+          <Name>Frozen</Name>
+          <Definition>BackColor:0, 0, 0, 0;</Definition>
+        </Style>
+        <Style>
+          <Name>NewRow</Name>
+          <Definition>ForeColor:GrayText;</Definition>
+        </Style>
+        <Style>
+          <Name>EmptyArea</Name>
+          <Definition>BackColor:MidnightBlue;ForeColor:LightSteelBlue;Border:Flat,1,ControlDarkDark,Both;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedColumnHeader</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedRowHeader</Name>
+        </Style>
+        <Style>
+          <Name>GrandTotal</Name>
+          <Definition>BackColor:Black;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal0</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal1</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal2</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal3</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal4</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal5</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>FilterEditor</Name>
+        </Style>
+        <Style>
+          <Name>FirstCustomStyle</Name>
+        </Style>
+        <Style>
+          <Name>File name</Name>
+          <Definition>Trimming:EllipsisPath;</Definition>
+        </Style>
+        <Style>
+          <Name>Instructions</Name>
+          <Definition>Trimming:EllipsisWord;</Definition>
+        </Style>
+        <Style>
+          <Name>CellStyle3</Name>
+          <Definition>ForeColor:Yellow;</Definition>
+        </Style>
+        <Style>
+          <Name>CellStyle4</Name>
+          <Definition>ForeColor:Blue;</Definition>
+        </Style>
+        <Style>
+          <Name>CellStyle2</Name>
+          <Definition>ForeColor:Yellow;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;ImageAlign:Hide;Trimming:None;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;Margins:1, 0, 0, 0;TextAlign:LeftCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"Route|Drill|Line Laser|Dot Laser|Line dispense|Dot dispense";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"FR4|CEM1|CEM2|PE|PVC|Glass|Aluminium|Stencil|Positive|Negative|Solder Paste|Glue";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N5";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N5";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;Margins:1, 0, 0, 0;TextAlign:CenterCenter;TextEffect:Flat;TextDirection:Normal;Trimming:None;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"0|90|180|270";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"No|X|Y";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Decimal;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Decimal;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Decimal;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Decimal;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"Bottom|Top";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Drawing.Image;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+      </Styles>
+    </C1FlexGrid>
+  </_flex>
+  <Layer_0>
+    <C1FlexGrid version="4.6.20122.726">
+      <Control>
+        <VisualStyle>Office2010Blue</VisualStyle>
+        <AllowMerging>FixedOnly</AllowMerging>
+        <AllowMergingFixed>FixedOnly</AllowMergingFixed>
+        <AllowResizing>None</AllowResizing>
+        <AllowDragging>Rows</AllowDragging>
+        <ExtendLastCol>True</ExtendLastCol>
+        <SelectionMode>Cell</SelectionMode>
+        <KeyActionTab>MoveAcrossOut</KeyActionTab>
+        <DrawMode>OwnerDraw</DrawMode>
+        <ForeColor>Blue</ForeColor>
+        <ShowThemedHeaders>None</ShowThemedHeaders>
+        <NewRowWatermark>Click to add new row</NewRowWatermark>
+        <BorderStyle>None</BorderStyle>
+        <Cursor>Default</Cursor>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <Margin>3, 3, 3, 3</Margin>
+        <MaximumSize>0, 0</MaximumSize>
+        <MinimumSize>0, 0</MinimumSize>
+        <RightToLeft>No</RightToLeft>
+        <Tag type="System.Int32">1</Tag>
+        <Padding>0, 0, 0, 0</Padding>
+        <ImeMode>NoControl</ImeMode>
+      </Control>
+      <ColumnInfo>
+        <Count>31</Count>
+        <Fixed>1</Fixed>
+        <DefaultSize>95</DefaultSize>
+        <Frozen>2</Frozen>
+      </ColumnInfo>
+      <Columns>
+        <Column index="0">
+          <Width>28</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <StyleFixed>21</StyleFixed>
+        </Column>
+        <Column index="1">
+          <Width>25</Width>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>22</Style>
+          <StyleFixed>23</StyleFixed>
+        </Column>
+        <Column index="2">
+          <Width>160</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>24</Style>
+          <StyleFixed>25</StyleFixed>
+        </Column>
+        <Column index="3">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>26</Style>
+          <StyleFixed>27</StyleFixed>
+        </Column>
+        <Column index="4">
+          <Width>100</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>28</Style>
+          <StyleFixed>29</StyleFixed>
+        </Column>
+        <Column index="5">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>30</Style>
+          <StyleFixed>31</StyleFixed>
+        </Column>
+        <Column index="6">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>32</Style>
+          <StyleFixed>33</StyleFixed>
+        </Column>
+        <Column index="7">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>34</Style>
+          <StyleFixed>35</StyleFixed>
+        </Column>
+        <Column index="8">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>36</Style>
+          <StyleFixed>37</StyleFixed>
+        </Column>
+        <Column index="9">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>38</Style>
+          <StyleFixed>39</StyleFixed>
+        </Column>
+        <Column index="10">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>40</Style>
+          <StyleFixed>41</StyleFixed>
+        </Column>
+        <Column index="11">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>42</Style>
+          <StyleFixed>43</StyleFixed>
+        </Column>
+        <Column index="12">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>44</Style>
+          <StyleFixed>45</StyleFixed>
+        </Column>
+        <Column index="13">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>46</Style>
+          <StyleFixed>47</StyleFixed>
+        </Column>
+        <Column index="14">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>48</Style>
+          <StyleFixed>49</StyleFixed>
+        </Column>
+        <Column index="15">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>50</Style>
+          <StyleFixed>51</StyleFixed>
+        </Column>
+        <Column index="16">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>52</Style>
+          <StyleFixed>53</StyleFixed>
+        </Column>
+        <Column index="17">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>54</Style>
+          <StyleFixed>55</StyleFixed>
+        </Column>
+        <Column index="18">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>56</Style>
+          <StyleFixed>57</StyleFixed>
+        </Column>
+        <Column index="19">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>58</Style>
+          <StyleFixed>59</StyleFixed>
+        </Column>
+        <Column index="20">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>60</Style>
+          <StyleFixed>61</StyleFixed>
+        </Column>
+        <Column index="21">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>62</Style>
+          <StyleFixed>63</StyleFixed>
+        </Column>
+        <Column index="22">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>64</Style>
+          <StyleFixed>65</StyleFixed>
+        </Column>
+        <Column index="23">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>66</Style>
+          <StyleFixed>67</StyleFixed>
+        </Column>
+        <Column index="24">
+          <Width>22</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>68</Style>
+          <StyleFixed>69</StyleFixed>
+        </Column>
+        <Column index="25">
+          <Width>22</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>70</Style>
+          <StyleFixed>71</StyleFixed>
+        </Column>
+        <Column index="26">
+          <Width>5</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>72</Style>
+        </Column>
+        <Column index="27">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>73</Style>
+        </Column>
+        <Column index="28">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>74</Style>
+          <StyleFixed>75</StyleFixed>
+        </Column>
+        <Column index="29">
+          <Width>5</Width>
+          <Visible>False</Visible>
+          <Style>76</Style>
+        </Column>
+        <Column index="30">
+          <Width>5</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+        </Column>
+      </Columns>
+      <RowInfo>
+        <Count>4</Count>
+        <Fixed>2</Fixed>
+        <MinSize>21</MinSize>
+        <DefaultSize>19</DefaultSize>
+      </RowInfo>
+      <Rows>
+        <Row index="0">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+        <Row index="1">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+      </Rows>
+      <Cells>
+        <Cell index="0,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,1">
+          <Data>Nr.</Data>
+        </Cell>
+        <Cell index="0,2">
+          <Data>Name</Data>
+        </Cell>
+        <Cell index="0,3">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="0,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="0,5">
+          <Data>Diameter</Data>
+        </Cell>
+        <Cell index="0,6">
+          <Data>Volume</Data>
+        </Cell>
+        <Cell index="0,7">
+          <Data>Spindle</Data>
+        </Cell>
+        <Cell index="0,8">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,9">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,10">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,11">
+          <Data>Depth</Data>
+        </Cell>
+        <Cell index="0,12">
+          <Data>Depth</Data>
+        </Cell>
+        <Cell index="0,13">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="0,14">
+          <Data>Laser</Data>
+        </Cell>
+        <Cell index="0,15">
+          <Data>Laser</Data>
+        </Cell>
+        <Cell index="0,16">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="0,17">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="0,18">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="0,19">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="0,20">
+          <Data>Iteration</Data>
+        </Cell>
+        <Cell index="0,21">
+          <Data>ATC</Data>
+        </Cell>
+        <Cell index="0,22">
+          <Data>Used</Data>
+        </Cell>
+        <Cell index="0,23">
+          <Data>Used</Data>
+        </Cell>
+        <Cell index="0,24">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,25">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,28">
+          <Data>Count</Data>
+        </Cell>
+        <Cell index="0,30">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,1">
+          <Data>Nr.</Data>
+        </Cell>
+        <Cell index="1,2">
+          <Data>Name</Data>
+        </Cell>
+        <Cell index="1,3">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="1,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="1,5">
+          <Data>Diameter</Data>
+        </Cell>
+        <Cell index="1,6">
+          <Data>Volume</Data>
+        </Cell>
+        <Cell index="1,7">
+          <Data>Speed</Data>
+        </Cell>
+        <Cell index="1,8">
+          <Data>XY</Data>
+        </Cell>
+        <Cell index="1,9">
+          <Data>Z in</Data>
+        </Cell>
+        <Cell index="1,10">
+          <Data>Z retract</Data>
+        </Cell>
+        <Cell index="1,11">
+          <Data>Work</Data>
+        </Cell>
+        <Cell index="1,12">
+          <Data>Chamfer</Data>
+        </Cell>
+        <Cell index="1,13">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="1,14">
+          <Data>Pre Lite</Data>
+        </Cell>
+        <Cell index="1,15">
+          <Data>Power</Data>
+        </Cell>
+        <Cell index="1,16">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="1,17">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="1,18">
+          <Data>Start</Data>
+        </Cell>
+        <Cell index="1,19">
+          <Data>Stop</Data>
+        </Cell>
+        <Cell index="1,20">
+          <Data>Iteration</Data>
+        </Cell>
+        <Cell index="1,21">
+          <Data>position</Data>
+        </Cell>
+        <Cell index="1,22">
+          <Data>X</Data>
+        </Cell>
+        <Cell index="1,23">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="1,24">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,25">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,28">
+          <Data>Count</Data>
+        </Cell>
+        <Cell index="1,30">
+          <Data> </Data>
+        </Cell>
+        <Cell index="2,1">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="2,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="2,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="2,5">
+          <Data>1.6</Data>
+        </Cell>
+        <Cell index="2,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="2,9">
+          <Data>400</Data>
+        </Cell>
+        <Cell index="2,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="2,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,22">
+          <Data>2</Data>
+        </Cell>
+        <Cell index="2,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,27">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,28">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,1">
+          <Data>2</Data>
+        </Cell>
+        <Cell index="3,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="3,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="3,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="3,5">
+          <Data>1.8</Data>
+        </Cell>
+        <Cell index="3,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="3,9">
+          <Data>400</Data>
+        </Cell>
+        <Cell index="3,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="3,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,22">
+          <Data>2</Data>
+        </Cell>
+        <Cell index="3,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,27">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,28">
+          <Data>1</Data>
+        </Cell>
+      </Cells>
+      <Styles>
+        <Style>
+          <Name>Normal</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;BackColor:Window;ForeColor:Blue;</Definition>
+        </Style>
+        <Style>
+          <Name>Alternate</Name>
+          <Definition>BackColor:Transparent;</Definition>
+        </Style>
+        <Style>
+          <Name>Fixed</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;BackColor:InactiveCaptionText;ForeColor:CornflowerBlue;Border:Flat,1,InactiveBorder,Both;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Name>Highlight</Name>
+          <Definition>BackColor:GhostWhite;ForeColor:ActiveCaption;</Definition>
+        </Style>
+        <Style>
+          <Name>Focus</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Editor</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Search</Name>
+          <Definition>BackColor:Highlight;ForeColor:HighlightText;</Definition>
+        </Style>
+        <Style>
+          <Name>Frozen</Name>
+          <Definition>BackColor:Window;</Definition>
+        </Style>
+        <Style>
+          <Name>NewRow</Name>
+          <Definition>ForeColor:GrayText;</Definition>
+        </Style>
+        <Style>
+          <Name>EmptyArea</Name>
+          <Definition>BackColor:MidnightBlue;ForeColor:LightSteelBlue;Border:Flat,1,ControlDarkDark,Both;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedColumnHeader</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedRowHeader</Name>
+        </Style>
+        <Style>
+          <Name>GrandTotal</Name>
+          <Definition>BackColor:Black;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal0</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal1</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal2</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal3</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal4</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal5</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>FilterEditor</Name>
+        </Style>
+        <Style>
+          <Name>FirstCustomStyle</Name>
+        </Style>
+        <Style>
+          <Definition>Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;ImageAlign:Hide;Trimming:None;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"Standard drill 1|Standard drill 2|Standard drill 3|Spade type drill 1|Spade type drill 2|Microvia drill|Slot drill|Flex drill";TextAlign:LeftCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"FR4|CEM1|CEM2|PE|PVC|Glass|Aluminium|Stencil";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"5000|8000|12000|16000|20000|24000|27000|31000|35000|39000|43000|46000|50000|54000|58000|63000";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N6";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"0%|7%|13%|20%|27%|33%|40%|47%|53%|60%|67%|73%|80%|87%|93%|100%";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"1|+1|2|+2|3|+3|4|+4|5|+5|6|+6|7|+7|8|+8|9|+9|10|+10|11|+11|12|+12|13|+13|14|+14|15|+15";TextAlign:RightCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+      </Styles>
+    </C1FlexGrid>
+  </Layer_0>
+  <Layer_1>
+    <C1FlexGrid version="4.6.20122.726">
+      <Control>
+        <VisualStyle>Office2010Blue</VisualStyle>
+        <AllowMerging>FixedOnly</AllowMerging>
+        <AllowMergingFixed>FixedOnly</AllowMergingFixed>
+        <AllowResizing>None</AllowResizing>
+        <AllowDragging>Rows</AllowDragging>
+        <ExtendLastCol>True</ExtendLastCol>
+        <SelectionMode>Cell</SelectionMode>
+        <KeyActionTab>MoveAcrossOut</KeyActionTab>
+        <DrawMode>OwnerDraw</DrawMode>
+        <ForeColor>Blue</ForeColor>
+        <ShowThemedHeaders>None</ShowThemedHeaders>
+        <NewRowWatermark>Click to add new row</NewRowWatermark>
+        <BorderStyle>None</BorderStyle>
+        <Cursor>Default</Cursor>
+        <Font>Microsoft Sans Serif, 8.25pt</Font>
+        <Margin>3, 3, 3, 3</Margin>
+        <MaximumSize>0, 0</MaximumSize>
+        <MinimumSize>0, 0</MinimumSize>
+        <RightToLeft>No</RightToLeft>
+        <Tag type="System.Int32">1</Tag>
+        <Padding>0, 0, 0, 0</Padding>
+        <ImeMode>NoControl</ImeMode>
+      </Control>
+      <ColumnInfo>
+        <Count>31</Count>
+        <Fixed>1</Fixed>
+        <DefaultSize>95</DefaultSize>
+        <Frozen>2</Frozen>
+      </ColumnInfo>
+      <Columns>
+        <Column index="0">
+          <Width>28</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <StyleFixed>21</StyleFixed>
+        </Column>
+        <Column index="1">
+          <Width>25</Width>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>22</Style>
+          <StyleFixed>23</StyleFixed>
+        </Column>
+        <Column index="2">
+          <Width>160</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>24</Style>
+          <StyleFixed>25</StyleFixed>
+        </Column>
+        <Column index="3">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>26</Style>
+          <StyleFixed>27</StyleFixed>
+        </Column>
+        <Column index="4">
+          <Width>100</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>28</Style>
+          <StyleFixed>29</StyleFixed>
+        </Column>
+        <Column index="5">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>30</Style>
+          <StyleFixed>31</StyleFixed>
+        </Column>
+        <Column index="6">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>32</Style>
+          <StyleFixed>33</StyleFixed>
+        </Column>
+        <Column index="7">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>34</Style>
+          <StyleFixed>35</StyleFixed>
+        </Column>
+        <Column index="8">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>36</Style>
+          <StyleFixed>37</StyleFixed>
+        </Column>
+        <Column index="9">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>38</Style>
+          <StyleFixed>39</StyleFixed>
+        </Column>
+        <Column index="10">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>40</Style>
+          <StyleFixed>41</StyleFixed>
+        </Column>
+        <Column index="11">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>42</Style>
+          <StyleFixed>43</StyleFixed>
+        </Column>
+        <Column index="12">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>44</Style>
+          <StyleFixed>45</StyleFixed>
+        </Column>
+        <Column index="13">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>46</Style>
+          <StyleFixed>47</StyleFixed>
+        </Column>
+        <Column index="14">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>48</Style>
+          <StyleFixed>49</StyleFixed>
+        </Column>
+        <Column index="15">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>50</Style>
+          <StyleFixed>51</StyleFixed>
+        </Column>
+        <Column index="16">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>52</Style>
+          <StyleFixed>53</StyleFixed>
+        </Column>
+        <Column index="17">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>54</Style>
+          <StyleFixed>55</StyleFixed>
+        </Column>
+        <Column index="18">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>56</Style>
+          <StyleFixed>57</StyleFixed>
+        </Column>
+        <Column index="19">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>58</Style>
+          <StyleFixed>59</StyleFixed>
+        </Column>
+        <Column index="20">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>60</Style>
+          <StyleFixed>61</StyleFixed>
+        </Column>
+        <Column index="21">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <Style>62</Style>
+          <StyleFixed>63</StyleFixed>
+        </Column>
+        <Column index="22">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>64</Style>
+          <StyleFixed>65</StyleFixed>
+        </Column>
+        <Column index="23">
+          <Width>70</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowFiltering>None</AllowFiltering>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>66</Style>
+          <StyleFixed>67</StyleFixed>
+        </Column>
+        <Column index="24">
+          <Width>22</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>68</Style>
+          <StyleFixed>69</StyleFixed>
+        </Column>
+        <Column index="25">
+          <Width>22</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>70</Style>
+          <StyleFixed>71</StyleFixed>
+        </Column>
+        <Column index="26">
+          <Width>5</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>72</Style>
+        </Column>
+        <Column index="27">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <Visible>False</Visible>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>73</Style>
+        </Column>
+        <Column index="28">
+          <Width>60</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+          <Style>74</Style>
+          <StyleFixed>75</StyleFixed>
+        </Column>
+        <Column index="29">
+          <Width>5</Width>
+          <Visible>False</Visible>
+          <Style>76</Style>
+        </Column>
+        <Column index="30">
+          <Width>5</Width>
+          <AllowSorting>False</AllowSorting>
+          <AllowDragging>False</AllowDragging>
+          <AllowResizing>False</AllowResizing>
+          <AllowMerging>True</AllowMerging>
+          <AllowEditing>False</AllowEditing>
+        </Column>
+      </Columns>
+      <RowInfo>
+        <Count>11</Count>
+        <Fixed>2</Fixed>
+        <MinSize>21</MinSize>
+        <DefaultSize>19</DefaultSize>
+      </RowInfo>
+      <Rows>
+        <Row index="0">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+        <Row index="1">
+          <AllowMerging>True</AllowMerging>
+        </Row>
+      </Rows>
+      <Cells>
+        <Cell index="0,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,1">
+          <Data>Nr.</Data>
+        </Cell>
+        <Cell index="0,2">
+          <Data>Name</Data>
+        </Cell>
+        <Cell index="0,3">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="0,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="0,5">
+          <Data>Diameter</Data>
+        </Cell>
+        <Cell index="0,6">
+          <Data>Volume</Data>
+        </Cell>
+        <Cell index="0,7">
+          <Data>Spindle</Data>
+        </Cell>
+        <Cell index="0,8">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,9">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,10">
+          <Data>Feed</Data>
+        </Cell>
+        <Cell index="0,11">
+          <Data>Depth</Data>
+        </Cell>
+        <Cell index="0,12">
+          <Data>Depth</Data>
+        </Cell>
+        <Cell index="0,13">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="0,14">
+          <Data>Laser</Data>
+        </Cell>
+        <Cell index="0,15">
+          <Data>Laser</Data>
+        </Cell>
+        <Cell index="0,16">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="0,17">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="0,18">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="0,19">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="0,20">
+          <Data>Iteration</Data>
+        </Cell>
+        <Cell index="0,21">
+          <Data>ATC</Data>
+        </Cell>
+        <Cell index="0,22">
+          <Data>Used</Data>
+        </Cell>
+        <Cell index="0,23">
+          <Data>Used</Data>
+        </Cell>
+        <Cell index="0,24">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,25">
+          <Data> </Data>
+        </Cell>
+        <Cell index="0,28">
+          <Data>Count</Data>
+        </Cell>
+        <Cell index="0,30">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,0">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,1">
+          <Data>Nr.</Data>
+        </Cell>
+        <Cell index="1,2">
+          <Data>Name</Data>
+        </Cell>
+        <Cell index="1,3">
+          <Data>Process</Data>
+        </Cell>
+        <Cell index="1,4">
+          <Data>Material</Data>
+        </Cell>
+        <Cell index="1,5">
+          <Data>Diameter</Data>
+        </Cell>
+        <Cell index="1,6">
+          <Data>Volume</Data>
+        </Cell>
+        <Cell index="1,7">
+          <Data>Speed</Data>
+        </Cell>
+        <Cell index="1,8">
+          <Data>XY</Data>
+        </Cell>
+        <Cell index="1,9">
+          <Data>Z in</Data>
+        </Cell>
+        <Cell index="1,10">
+          <Data>Z retract</Data>
+        </Cell>
+        <Cell index="1,11">
+          <Data>Work</Data>
+        </Cell>
+        <Cell index="1,12">
+          <Data>Chamfer</Data>
+        </Cell>
+        <Cell index="1,13">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="1,14">
+          <Data>Pre Lite</Data>
+        </Cell>
+        <Cell index="1,15">
+          <Data>Power</Data>
+        </Cell>
+        <Cell index="1,16">
+          <Data>Latency</Data>
+        </Cell>
+        <Cell index="1,17">
+          <Data>Time</Data>
+        </Cell>
+        <Cell index="1,18">
+          <Data>Start</Data>
+        </Cell>
+        <Cell index="1,19">
+          <Data>Stop</Data>
+        </Cell>
+        <Cell index="1,20">
+          <Data>Iteration</Data>
+        </Cell>
+        <Cell index="1,21">
+          <Data>position</Data>
+        </Cell>
+        <Cell index="1,22">
+          <Data>X</Data>
+        </Cell>
+        <Cell index="1,23">
+          <Data>Distance</Data>
+        </Cell>
+        <Cell index="1,24">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,25">
+          <Data> </Data>
+        </Cell>
+        <Cell index="1,28">
+          <Data>Count</Data>
+        </Cell>
+        <Cell index="1,30">
+          <Data> </Data>
+        </Cell>
+        <Cell index="2,1">
+          <Data>3</Data>
+        </Cell>
+        <Cell index="2,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="2,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="2,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="2,5">
+          <Data>0.7</Data>
+        </Cell>
+        <Cell index="2,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="2,9">
+          <Data>250</Data>
+        </Cell>
+        <Cell index="2,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="2,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,22">
+          <Data>8</Data>
+        </Cell>
+        <Cell index="2,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="2,27">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="2,28">
+          <Data>4</Data>
+        </Cell>
+        <Cell index="3,1">
+          <Data>4</Data>
+        </Cell>
+        <Cell index="3,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="3,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="3,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="3,5">
+          <Data>0.7</Data>
+        </Cell>
+        <Cell index="3,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="3,9">
+          <Data>250</Data>
+        </Cell>
+        <Cell index="3,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="3,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,22">
+          <Data>2</Data>
+        </Cell>
+        <Cell index="3,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="3,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="3,27">
+          <Data>4</Data>
+        </Cell>
+        <Cell index="3,28">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="4,1">
+          <Data>5</Data>
+        </Cell>
+        <Cell index="4,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="4,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="4,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="4,5">
+          <Data>0.75</Data>
+        </Cell>
+        <Cell index="4,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="4,9">
+          <Data>250</Data>
+        </Cell>
+        <Cell index="4,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="4,12">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="4,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="4,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="4,22">
+          <Data>48</Data>
+        </Cell>
+        <Cell index="4,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="4,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="4,27">
+          <Data>5</Data>
+        </Cell>
+        <Cell index="4,28">
+          <Data>24</Data>
+        </Cell>
+        <Cell index="5,1">
+          <Data>6</Data>
+        </Cell>
+        <Cell index="5,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="5,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="5,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="5,5">
+          <Data>0.8</Data>
+        </Cell>
+        <Cell index="5,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="5,9">
+          <Data>300</Data>
+        </Cell>
+        <Cell index="5,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="5,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="5,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="5,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="5,22">
+          <Data>32</Data>
+        </Cell>
+        <Cell index="5,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="5,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="5,27">
+          <Data>29</Data>
+        </Cell>
+        <Cell index="5,28">
+          <Data>16</Data>
+        </Cell>
+        <Cell index="6,1">
+          <Data>7</Data>
+        </Cell>
+        <Cell index="6,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="6,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="6,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="6,5">
+          <Data>0.85</Data>
+        </Cell>
+        <Cell index="6,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="6,9">
+          <Data>300</Data>
+        </Cell>
+        <Cell index="6,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="6,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="6,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="6,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="6,22">
+          <Data>24</Data>
+        </Cell>
+        <Cell index="6,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="6,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="6,27">
+          <Data>45</Data>
+        </Cell>
+        <Cell index="6,28">
+          <Data>12</Data>
+        </Cell>
+        <Cell index="7,1">
+          <Data>8</Data>
+        </Cell>
+        <Cell index="7,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="7,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="7,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="7,5">
+          <Data>0.9</Data>
+        </Cell>
+        <Cell index="7,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="7,9">
+          <Data>300</Data>
+        </Cell>
+        <Cell index="7,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="7,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="7,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="7,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="7,22">
+          <Data>56</Data>
+        </Cell>
+        <Cell index="7,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="7,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="7,27">
+          <Data>57</Data>
+        </Cell>
+        <Cell index="7,28">
+          <Data>28</Data>
+        </Cell>
+        <Cell index="8,1">
+          <Data>9</Data>
+        </Cell>
+        <Cell index="8,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="8,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="8,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="8,5">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="8,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="8,9">
+          <Data>400</Data>
+        </Cell>
+        <Cell index="8,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="8,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="8,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="8,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="8,22">
+          <Data>26</Data>
+        </Cell>
+        <Cell index="8,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="8,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="8,27">
+          <Data>85</Data>
+        </Cell>
+        <Cell index="8,28">
+          <Data>13</Data>
+        </Cell>
+        <Cell index="9,1">
+          <Data>10</Data>
+        </Cell>
+        <Cell index="9,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="9,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="9,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="9,5">
+          <Data>1.1</Data>
+        </Cell>
+        <Cell index="9,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="9,9">
+          <Data>400</Data>
+        </Cell>
+        <Cell index="9,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="9,12">
+          <Data>0.5</Data>
+        </Cell>
+        <Cell index="9,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="9,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="9,22">
+          <Data>6</Data>
+        </Cell>
+        <Cell index="9,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="9,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="9,27">
+          <Data>98</Data>
+        </Cell>
+        <Cell index="9,28">
+          <Data>3</Data>
+        </Cell>
+        <Cell index="10,1">
+          <Data>11</Data>
+        </Cell>
+        <Cell index="10,2">
+          <Data>Standard drill 1</Data>
+        </Cell>
+        <Cell index="10,3">
+          <Data>True</Data>
+          <Checkbox>Checked</Checkbox>
+        </Cell>
+        <Cell index="10,4">
+          <Data>FR4</Data>
+        </Cell>
+        <Cell index="10,5">
+          <Data>2.7</Data>
+        </Cell>
+        <Cell index="10,7">
+          <Data>31000</Data>
+        </Cell>
+        <Cell index="10,9">
+          <Data>400</Data>
+        </Cell>
+        <Cell index="10,11">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="10,12">
+          <Data>0.75</Data>
+        </Cell>
+        <Cell index="10,20">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="10,21">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="10,22">
+          <Data>8</Data>
+        </Cell>
+        <Cell index="10,23">
+          <Data>0</Data>
+        </Cell>
+        <Cell index="10,26">
+          <Data>1</Data>
+        </Cell>
+        <Cell index="10,27">
+          <Data>101</Data>
+        </Cell>
+        <Cell index="10,28">
+          <Data>4</Data>
+        </Cell>
+      </Cells>
+      <Styles>
+        <Style>
+          <Name>Normal</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;BackColor:Window;ForeColor:Blue;</Definition>
+        </Style>
+        <Style>
+          <Name>Alternate</Name>
+          <Definition>BackColor:Transparent;</Definition>
+        </Style>
+        <Style>
+          <Name>Fixed</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;BackColor:InactiveCaptionText;ForeColor:CornflowerBlue;Border:Flat,1,InactiveBorder,Both;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Name>Highlight</Name>
+          <Definition>BackColor:GhostWhite;ForeColor:ActiveCaption;</Definition>
+        </Style>
+        <Style>
+          <Name>Focus</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Editor</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt;</Definition>
+        </Style>
+        <Style>
+          <Name>Search</Name>
+          <Definition>BackColor:Highlight;ForeColor:HighlightText;</Definition>
+        </Style>
+        <Style>
+          <Name>Frozen</Name>
+          <Definition>BackColor:Window;</Definition>
+        </Style>
+        <Style>
+          <Name>NewRow</Name>
+          <Definition>ForeColor:GrayText;</Definition>
+        </Style>
+        <Style>
+          <Name>EmptyArea</Name>
+          <Definition>BackColor:MidnightBlue;ForeColor:LightSteelBlue;Border:Flat,1,ControlDarkDark,Both;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedColumnHeader</Name>
+          <Definition>Font:Microsoft Sans Serif, 8.25pt, style=Bold;ForeColor:CornflowerBlue;</Definition>
+        </Style>
+        <Style>
+          <Name>SelectedRowHeader</Name>
+        </Style>
+        <Style>
+          <Name>GrandTotal</Name>
+          <Definition>BackColor:Black;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal0</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal1</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal2</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal3</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal4</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>Subtotal5</Name>
+          <Definition>BackColor:ControlDarkDark;ForeColor:White;</Definition>
+        </Style>
+        <Style>
+          <Name>FilterEditor</Name>
+        </Style>
+        <Style>
+          <Name>FirstCustomStyle</Name>
+        </Style>
+        <Style>
+          <Definition>Margins:1, 0, 0, 0;TextEffect:Flat;TextDirection:Normal;ImageAlign:Hide;Trimming:None;BackgroundImageLayout:Hide;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"Standard drill 1|Standard drill 2|Standard drill 3|Spade type drill 1|Spade type drill 2|Microvia drill|Slot drill|Flex drill";TextAlign:LeftCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"FR4|CEM1|CEM2|PE|PVC|Glass|Aluminium|Stencil";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"5000|8000|12000|16000|20000|24000|27000|31000|35000|39000|43000|46000|50000|54000|58000|63000";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N6";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"0%|7%|13%|20%|27%|33%|40%|47%|53%|60%|67%|73%|80%|87%|93%|100%";TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>ComboList:"1|+1|2|+2|3|+3|4|+4|5|+5|6|+6|7|+7|8|+8|9|+9|10|+10|11|+11|12|+12|13|+13|14|+14|15|+15";TextAlign:RightCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>Format:"N2";DataType:System.Single;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:LeftCenter;ImageAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>TextAlign:CenterCenter;</Definition>
+        </Style>
+        <Style>
+          <Definition>DataType:System.Int32;TextAlign:GeneralCenter;</Definition>
+        </Style>
+      </Styles>
+    </C1FlexGrid>
+  </Layer_1>
+</RP3000_LAYER_TOOL_INFO>

@@ -3,6 +3,9 @@
 **/__Previews/
 **/Project Outputs*/
 **/Project Logs*/
+**/*.html
+**/*.drl
+**/*.REP
 
 ## LTspice
 /Simulation/*.raw
