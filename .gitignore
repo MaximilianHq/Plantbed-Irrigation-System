@@ -6,7 +6,11 @@
 **/*.html
 **/*.drl
 **/*.REP
+**/*.rpt
 
 ## LTspice
 /Simulation/*.raw
 /Simulation/*.log
+
+## General
+*.pdf
