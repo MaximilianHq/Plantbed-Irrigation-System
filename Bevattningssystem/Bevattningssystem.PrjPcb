@@ -135,41 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=Bevattningssystem.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=Gerber.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=Drill.Cam
+DocumentPath=JLC.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -190,218 +156,282 @@ DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem-NonPlated.T
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem-Plated.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\Bevattningssystem-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.DRR
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\Bevattningssystem-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBL
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBO
+DocumentPath=Project Outputs for Free Documents\NC Drill\Bevattningssystem.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBP
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBS
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GM
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTO
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTP
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTS
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.LDP
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.REP
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GM
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GM
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Bevattningssystem\Design Rule Check - Bevattningssystem.html
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_3d_body\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_assembly\features
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_component_center\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_courtyard\features
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for Free Documents\NC Drill\Bevattningssystem.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for Bevattningssystem\Bevattningssystem.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for Free Documents\Gerber\Bevattningssystem.REP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for Bevattningssystem\Design Rule Check - Bevattningssystem.html
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_3d_body\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_component_center\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_assembly\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_component_center\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_component_outline\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_courtyard\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_designator\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Bevattningssystem\odb\matrix\matrix
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\profile
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_component_center\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_component_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Bevattningssystem\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument71]
 DocumentPath=Project Outputs for Bevattningssystem\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
